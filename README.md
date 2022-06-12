@@ -11,5 +11,5 @@
   ![](https://github.com/santygn/Ejecutando-contenedores/blob/2994284ecddf824cb6af7a80433cd714da6a7f50/img2/2.png)
   
 - Ejemplo 4:
-  Con el comando `docker run -it -w /etc debian:9 ls` creamos un contenedor de debian y mostramos     el contenido de la carpeta -w.
+  Con el comando `docker run -it -w /etc debian:9 ls` creamos un contenedor de debian y mostramos el contenido de la carpeta -w.
   ![](https://github.com/santygn/Ejecutando-contenedores/blob/2994284ecddf824cb6af7a80433cd714da6a7f50/img2/4.png)
